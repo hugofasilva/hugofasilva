@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hugofasilva
-- 👀 I’m interested in finance, economics, epistomology and history
-- 🌱 I’m currently learning prescience
-- 💞️ I’m looking to collaborate on business building
+- 👀 I’m interested in technology, epistomology, history, finance and economics
 
 <!---
 hugofasilva/hugofasilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
