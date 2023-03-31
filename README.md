@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hugofasilva
 - 👀 I’m interested in finance, economics, epistomology and history
-- 🌱 I’m currently learning prescience
+- 🌱 I’m currently learning how the world works
 - 💞️ I’m looking to collaborate on business building
 
 <!---
